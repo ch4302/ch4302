@@ -21,12 +21,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Introduction
-Student (Hallym University, 2nd Grade)
+## Introduction
+Name: Junhyeok CHAE (채준혁)
+Email: cjh4302@gmail.com
+Github: https://www.github.com/ch4302
+
+## Education
+Osong Highschool (Graduated, 2019)
+Hallym University (Attending, 2nd Grade)
 
 
-
-### 
 ###
 ###
 ###
