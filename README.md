@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Student (Hallym University, 2nd Grade)
-###
+### Introduction
+Student (Hallym University, 2nd Grade)
+
+
+
 ### 
 ###
 ###
