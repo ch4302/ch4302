@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Student
+### Student (Hallym University, 2nd Grade)
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ch4302)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch4302)](https://github.com/anuraghazra/github-readme-stats)
