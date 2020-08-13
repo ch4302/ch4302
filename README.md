@@ -1,7 +1,7 @@
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fch4302)](https://hits.seeyoufarm.com)
-![GitHub last commit](https://img.shields.io/github/last-commit/ch4302/ch4302/Readme.md)
+![GitHub last commit](https://img.shields.io/github/last-commit/ch4302/)
 
 </div>
 
