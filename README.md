@@ -5,7 +5,7 @@
 
 </div>
 
-### Hi there 👋
+### 👋
 
 <!--
 **ch4302/ch4302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Introduction
+## 🤔 Introduction
 Name: Junhyeok CHAE (채준혁)
 
 Email: cjh4302@gmail.com
 
 Github: https://www.github.com/ch4302
 
-## Education
+## 🎓 Education
 Hallym University (Attending, 2nd Grade)
 
 Osong Highschool (Graduated, 2019)
