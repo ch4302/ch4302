@@ -30,9 +30,9 @@ Email: cjh4302@gmail.com
 Github: https://www.github.com/ch4302
 
 ## Education
-Osong Highschool (Graduated, 2019)
-
 Hallym University (Attending, 2nd Grade)
+
+Osong Highschool (Graduated, 2019)
 
 
 ###
