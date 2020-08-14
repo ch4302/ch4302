@@ -5,8 +5,6 @@
 
 </div>
 
-### 👋
-
 <!--
 **ch4302/ch4302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
