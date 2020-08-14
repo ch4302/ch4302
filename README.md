@@ -33,17 +33,7 @@ Hallym University (Attending, 2nd Grade)
 Osong Highschool (Graduated, 2019)
 
 
-###
-###
-###
-###
-###
-###
-###
-###
-###
-
-
+## :fire::fire::fire:
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ch4302&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
