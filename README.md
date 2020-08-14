@@ -46,6 +46,6 @@ Osong Highschool (Graduated, 2019)
 
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ch4302.github.io/)](https://ch4302.github.io/)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junhyeok-chae-b6b4ba185/)](https://www.linkedin.com/in/junhyeok-chae-b6b4ba185/)[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjh4302@gmail.com)](mailto:cjh4302@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ch4302.github.io/)](https://ch4302.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junhyeok-chae-b6b4ba185/)](https://www.linkedin.com/in/junhyeok-chae-b6b4ba185/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjh4302@gmail.com)](mailto:cjh4302@gmail.com)
 
 </div>
