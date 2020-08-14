@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🤔 Introduction
-Name: Junhyeok CHAE (채준혁)
+Name: Junhyeok CHAE (채준혁) :kr:
 
 Email: cjh4302@gmail.com
 
@@ -49,6 +49,7 @@ Osong Highschool (Graduated, 2019)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch4302)](https://github.com/anuraghazra/github-readme-stats)
 
+## Connection
 
 <div align=center>
 
