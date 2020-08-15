@@ -33,7 +33,7 @@ Hallym University (Attending, 2nd Grade)
 Osong Highschool (Graduated, 2019)
 
 
-## :fire::fire::fire:
+## :fire:
 
 
  
