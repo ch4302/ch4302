@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🤔 Introduction
-Name: Junhyeok CHAE (채준혁) :kr:
+Name: Junhyeok CHAE (채준혁) 
 
 Email: cjh4302@gmail.com
 
