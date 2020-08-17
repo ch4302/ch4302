@@ -37,7 +37,7 @@ Osong Highschool (Graduated, 2019)
 
 
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ch4302&count_private=true&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ch4302&count_private=true&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch4302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
