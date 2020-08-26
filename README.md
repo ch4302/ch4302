@@ -43,7 +43,7 @@ Osong Highschool (Graduated, 2019)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch4302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## solved.ac
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/ch4302)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ch4302)](https://solved.ac/ch4302)
 
 
 ## 💬 Connection
