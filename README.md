@@ -30,7 +30,7 @@ Github: https://www.github.com/ch4302
 Blog: https://laurent.tistory.com
 
 ## 🎓 Education
-Hallym University (Attending, 2nd Grade)
+Hallym University (Attending, Sophomore)
 
 Osong Highschool (Graduated, 2019)
 
