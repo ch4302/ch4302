@@ -25,7 +25,7 @@ Name: Junhyeok CHAE (채준혁)
 
 Email: cjh4302@gmail.com
 
-Github: https://www.github.com/ch4302
+Resume: https://www.github.com/ch4302/resume
 
 Blog: https://laurent.tistory.com
 
