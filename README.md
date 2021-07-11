@@ -30,7 +30,7 @@ Resume: https://github.com/ch4302/resume/ (🔨)
 Blog: https://laurent.tistory.com
 
 ## 🎓 Education
-Hallym University (Leave of Absence), Sophomore (2019 ~ 2020))
+Hallym University (Leave of Absence, Sophomore (2019 ~ 2020))
 
 Osong Highschool (Graduated, 2019)
 
