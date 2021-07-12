@@ -37,7 +37,7 @@ Hallym University (Leave of Absence, Sophomore (2019 ~ 2020))
 
 ## 🏃 History  
 
-FrontEnd Engineer - Republic Of Korea Air Force Headquaters (2021.02 ~ 2022.11)
+FrontEnd Engineer - Republic of Korea Air Force Headquaters (2021.02 ~ 2022.11)
 
 
 
