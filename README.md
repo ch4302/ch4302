@@ -29,10 +29,16 @@ Resume: https://github.com/ch4302/resume/ (🔨)
 
 Blog: https://laurent.tistory.com
 
-## 🎓 Education
-Hallym University (Leave of Absence, Sophomore (2019 ~ 2020))
+## 🎓 Education  
 
-Osong Highschool (Graduated, 2019)
+Osong Highschool (Graduated, 2019)  
+
+Hallym University (Leave of Absence, Sophomore (2019 ~ 2020))  
+
+## 🏃 History  
+
+FrontEnd Engineer - Republic Of KOREA Air Force Headquaters (2021.02 ~ 2022.11)
+
 
 
 ## :fire:
