@@ -25,10 +25,6 @@ Name: Junhyeok CHAE (채준혁)
 
 Email: cjh4302@gmail.com
 
-Resume: https://github.com/ch4302/resume/ (🔨)
-
-Blog: https://laurent.tistory.com
-
 ## 🎓 Education  
 
 Osong Highschool (Graduated, 2019)  
