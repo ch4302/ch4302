@@ -41,9 +41,9 @@ FrontEnd Engineer - Republic of Korea Air Force (2021.02 ~ 2022.11)
 
 
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ch4302&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junhyeokchae&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch4302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeokchae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💎 solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ch4302)](https://solved.ac/ch4302)
